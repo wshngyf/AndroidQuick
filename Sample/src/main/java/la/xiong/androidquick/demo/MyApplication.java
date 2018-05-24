@@ -34,7 +34,7 @@ public class MyApplication extends Application {
         //初始化greendao
         DBManager.getInstance().init(getApplicationContext());
         //初始化url
-        //RetrofitManager.initBaseUrl("http://gank.io/api/");
+        RetrofitManager.initBaseUrl("http://gank.io/api/");
         //沉浸式标题栏
         ImmersionConfiguration configuration = new ImmersionConfiguration.Builder(this)
                 .enableImmersionMode(ImmersionConfiguration.ENABLE)

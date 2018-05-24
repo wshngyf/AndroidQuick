@@ -39,8 +39,6 @@
         <activity android:name=".ui.activity.FragmentationActivity" />
 
         <service android:name=".service.DownloadService" />
-
-        <activity android:name=".ui.activity.AddLicenseActivity" />
     </application>
 
 </manifest>

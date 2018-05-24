@@ -76,7 +76,7 @@ public class Network2Fragment extends BaseFragment {
 
         mCompositeSubscription = new CompositeSubscription();
         mRetrofitManager = new RetrofitManager();
-       /* Subscription subscription =  mRetrofitManager.createApi(MyApplication.getInstance().getApplicationContext(), TestApis.class)
+        Subscription subscription =  mRetrofitManager.createApi(MyApplication.getInstance().getApplicationContext(), TestApis.class)
                 .getOctocat("https://api.github.com/repos/octocat/Hello-World/contributors")
                 .subscribeOn(Schedulers.io())
                 .observeOn(AndroidSchedulers.mainThread())
@@ -100,7 +100,7 @@ public class Network2Fragment extends BaseFragment {
                         DialogUtil.dismissLoadingDialog(mContext);
                     }
                 });
-        mCompositeSubscription.add(subscription);*/
+        mCompositeSubscription.add(subscription);
     }
 
     @Override

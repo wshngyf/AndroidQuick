@@ -27,9 +27,12 @@ public class MainActivity extends BaseActivity {
 
     @BindView(R.id.container)
     RelativeLayout mContainer;
-    @BindView(R.id.btn_main_addlicense)
-    Button btnMainAddLicense;
-
+    @BindView(R.id.btn_main_ui)
+    Button btnMainUI;
+    @BindView(R.id.btn_main_test)
+    Button btnMainTest;
+    @BindView(R.id.tv_main_version)
+    TextView tvMainVersion;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -48,17 +51,18 @@ public class MainActivity extends BaseActivity {
 
     @Override
     protected void initViewsAndEvents() {
-
+        String versionStr = getResources().getString(R.string.version);
+        String version = String.format(versionStr, AppUtil.getVersionName(this));
+        tvMainVersion.setText(version);
     }
 
-
-    @OnClick({R.id.btn_main_addlicense})
+    @OnClick({R.id.btn_main_ui, R.id.btn_main_network, R.id.btn_main_database, R.id.btn_main_tools, R.id.btn_main_task, R.id.btn_main_test})
     public void click(View v) {
         switch (v.getId()) {
-            case R.id.btn_main_addlicense:
-                readyGo(AddLicenseActivity.class);
+            case R.id.btn_main_ui:
+                readyGo(UIActivity.class);
                 break;
-/*            case R.id.btn_main_network:
+            case R.id.btn_main_network:
                 readyGo(NetworkActivity.class);
                 break;
             case R.id.btn_main_database:
@@ -77,7 +81,7 @@ public class MainActivity extends BaseActivity {
                         toggleRestore();
                     }
                 });
-                break;*/
+                break;
         }
     }
 

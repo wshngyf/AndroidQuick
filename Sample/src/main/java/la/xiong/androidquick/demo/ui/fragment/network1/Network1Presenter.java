@@ -37,7 +37,7 @@ public class Network1Presenter extends Network1Contract.Presenter {
 
     @Override
     public void initData(String type) {
-/*        if ("get".equals(type)) {
+        if ("get".equals(type)) {
             //获取接口实例
             Gank2Apis gank2Apis = mRetrofitManager.createApi(MyApplication.getInstance().getApplicationContext(), Gank2Apis.class);
             //调用方法得到一个Call
@@ -66,6 +66,6 @@ public class Network1Presenter extends Network1Contract.Presenter {
                             mView.updateView(list.getResults().toString());
                         }
                     }));
-        }*/
+        }
     }
 }
