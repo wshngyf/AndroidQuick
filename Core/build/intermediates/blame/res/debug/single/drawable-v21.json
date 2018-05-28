@@ -4,6 +4,14 @@
         "source": "C:\\Users\\Edianzu\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.0.2.aar\\eba8960c92c8620a740f002ff800cf5b\\res\\drawable-v21\\design_password_eye.xml"
     },
     {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\yunfe_000\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.2.aar\\7b8292a764eccca777f4f2e75392d8bc\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\yunfe_000\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.0.2.aar\\dc4d2ec8afadd49680d81551994b8e5a\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+    },
+    {
         "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
         "source": "C:\\Users\\Edianzu\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.0.2.aar\\eba8960c92c8620a740f002ff800cf5b\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
     },
@@ -14,6 +22,10 @@
     {
         "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
         "source": "C:\\Users\\Edianzu\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\2c5770af6f4b77fcf81c50b7369244ba\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\yunfe_000\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\32fc45f7d32b5840f69cbd287e908f59\\res\\drawable-v21\\abc_edit_text_material.xml"
     },
     {
         "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_show_password.xml",
@@ -28,7 +40,27 @@
         "source": "C:\\Users\\Edianzu\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.0.2.aar\\eba8960c92c8620a740f002ff800cf5b\\res\\drawable-v21\\avd_hide_password.xml"
     },
     {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\yunfe_000\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\32fc45f7d32b5840f69cbd287e908f59\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\yunfe_000\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\32fc45f7d32b5840f69cbd287e908f59\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
         "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
         "source": "C:\\Users\\Edianzu\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.2.aar\\7a405ab6b6f1a55c8eb0d0f5b40c1f9c\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_show_password.xml",
+        "source": "C:\\Users\\yunfe_000\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.0.2.aar\\dc4d2ec8afadd49680d81551994b8e5a\\res\\drawable-v21\\avd_show_password.xml"
+    },
+    {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_hide_password.xml",
+        "source": "C:\\Users\\yunfe_000\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.0.2.aar\\dc4d2ec8afadd49680d81551994b8e5a\\res\\drawable-v21\\avd_hide_password.xml"
+    },
+    {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_password_eye.xml",
+        "source": "C:\\Users\\yunfe_000\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.0.2.aar\\dc4d2ec8afadd49680d81551994b8e5a\\res\\drawable-v21\\design_password_eye.xml"
     }
 ]

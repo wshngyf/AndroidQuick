@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="me.yokeyword:fragmentation-core-1.3.1">
     <CLASSES>
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/fragmentation-core-1.3.1.aar/fdaa9ffebef49defbcb915161d69eaeb/res" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/fragmentation-core-1.3.1.aar/fdaa9ffebef49defbcb915161d69eaeb/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/fragmentation-core-1.3.1.aar/0d93b86624e7441f1eb69a459b16a528/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/fragmentation-core-1.3.1.aar/0d93b86624e7441f1eb69a459b16a528/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

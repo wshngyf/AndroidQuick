@@ -1,5 +1,9 @@
 [
     {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\animator-v21\\design_appbar_state_list_animator.xml",
+        "source": "C:\\Users\\yunfe_000\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.0.2.aar\\dc4d2ec8afadd49680d81551994b8e5a\\res\\animator-v21\\design_appbar_state_list_animator.xml"
+    },
+    {
         "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\animator-v21\\design_appbar_state_list_animator.xml",
         "source": "C:\\Users\\Edianzu\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.0.2.aar\\eba8960c92c8620a740f002ff800cf5b\\res\\animator-v21\\design_appbar_state_list_animator.xml"
     }
