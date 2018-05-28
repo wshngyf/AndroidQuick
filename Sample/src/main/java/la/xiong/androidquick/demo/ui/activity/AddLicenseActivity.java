@@ -12,7 +12,11 @@ import butterknife.OnClick;
 import la.xiong.androidquick.demo.R;
 import la.xiong.androidquick.demo.base.BaseActivity;
 import la.xiong.androidquick.demo.network.loader.LicensePlateLoader;
+import la.xiong.androidquick.tool.AppUtil;
+import la.xiong.androidquick.tool.DialogUtil;
+import la.xiong.androidquick.tool.StrUtil;
 import la.xiong.androidquick.tool.ToastUtil;
+import la.xiong.androidquick.ui.dialog.CommonDialog;
 import rx.functions.Action1;
 
 /**
@@ -71,16 +75,25 @@ public class AddLicenseActivity extends BaseActivity {
                 mCity="A";
             }
         });
+
     }
 
     @OnClick({R.id.bt_addlicense_submit,R.id.et_addlicense_author,R.id.et_addlicense_remark,R.id.et_addlicence_phonenum})
     public void onClick(View v){
+        if(AppUtil.isFastClick()){
+            return;
+        }
         switch (v.getId()){
             case R.id.bt_addlicense_submit:
+                DialogUtil.showLoadingDialog(this,"正在提交");
                 String author=mEtAuthor.getText().toString().trim();
                 String carnum=mEtCarnum.getText().toString().trim();
                 String phonenum=mEtPhoneNum.getText().toString().trim();
                 String remark=mEtRemark.getText().toString().trim();
+                if(StrUtil.isEmpty(author)||StrUtil.isEmpty(carnum)||StrUtil.isEmpty(phonenum)){
+                    ToastUtil.showToast("车牌、手机号、采集人必填，备注可以不填");
+                    return;
+                }
 
                 mAppLoader.submitLicense(mProvince,mCity,carnum,phonenum,remark,author)
                 .subscribe(new Action1<String>() {
@@ -89,6 +102,7 @@ public class AddLicenseActivity extends BaseActivity {
                         mEtCarnum.getText().clear();
                         mEtPhoneNum.getText().clear();
                         mEtRemark.getText().clear();
+                        DialogUtil.dismissLoadingDialog(AddLicenseActivity.this);
                         ToastUtil.showToast("添加成功");
 
                         Log.d("成功获取", "s=" + s);
@@ -96,6 +110,8 @@ public class AddLicenseActivity extends BaseActivity {
                 }, new Action1<Throwable>() {
                     @Override
                     public void call(Throwable throwable) {
+                        DialogUtil.dismissLoadingDialog(AddLicenseActivity.this);
+
                         // TODO: 2018/5/24 报异常 
                         ToastUtil.showToast("添加成功");
                         mEtCarnum.getText().clear();

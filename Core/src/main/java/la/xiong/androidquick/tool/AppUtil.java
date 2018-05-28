@@ -10,6 +10,8 @@ import android.content.pm.PackageManager;
  */
 public class AppUtil {
 
+    private static long lastClickTime;
+
     /**
      * get App versionCode
      * @param context
@@ -44,5 +46,19 @@ public class AppUtil {
             e.printStackTrace();
         }
         return versionName;
+    }
+
+    /**
+     * 1秒只能点击一次
+     *
+     * @return 返回是否可以点击
+     */
+    public synchronized static boolean isFastClick() {
+        long time = System.currentTimeMillis();
+        if (time - lastClickTime < 500) {
+            return true;
+        }
+        lastClickTime = time;
+        return false;
     }
 }

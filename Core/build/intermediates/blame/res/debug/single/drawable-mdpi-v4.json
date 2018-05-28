@@ -28,12 +28,12 @@
         "source": "C:\\Users\\Edianzu\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\2c5770af6f4b77fcf81c50b7369244ba\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_16dp.png"
     },
     {
-        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
-        "source": "C:\\Users\\Edianzu\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\2c5770af6f4b77fcf81c50b7369244ba\\res\\drawable-mdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
-    },
-    {
         "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
         "source": "C:\\Users\\Edianzu\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\2c5770af6f4b77fcf81c50b7369244ba\\res\\drawable-mdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "C:\\Users\\Edianzu\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\2c5770af6f4b77fcf81c50b7369244ba\\res\\drawable-mdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
     },
     {
         "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png",

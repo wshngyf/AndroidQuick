@@ -36,12 +36,12 @@
         "source": "C:\\Users\\Edianzu\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.0.2.aar\\eba8960c92c8620a740f002ff800cf5b\\res\\drawable\\design_password_eye.xml"
     },
     {
-        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\bottom_menu_cancel_bg_normal.xml",
-        "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\bottom_menu_cancel_bg_normal.xml"
-    },
-    {
         "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_dialog_button_left.xml",
         "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\selector_dialog_button_left.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\bottom_menu_cancel_bg_normal.xml",
+        "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\bottom_menu_cancel_bg_normal.xml"
     },
     {
         "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_dialog_button_right.xml",
@@ -72,12 +72,12 @@
         "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\to_white_slight.xml"
     },
     {
-        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_red_round_bg.xml",
-        "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\btn_red_round_bg.xml"
-    },
-    {
         "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\bottom_menu_item_bg.xml",
         "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\bottom_menu_item_bg.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_red_round_bg.xml",
+        "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\btn_red_round_bg.xml"
     },
     {
         "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
@@ -132,28 +132,28 @@
         "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\list_item_blank_divider.xml"
     },
     {
-        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\white_to_alpha.xml",
-        "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\white_to_alpha.xml"
-    },
-    {
-        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_blue_small.xml",
-        "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\btn_blue_small.xml"
+        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\bottom_menu_cancel_bg_pressed.xml",
+        "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\bottom_menu_cancel_bg_pressed.xml"
     },
     {
         "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_blue_round_bg.xml",
         "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\btn_blue_round_bg.xml"
     },
     {
-        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\bottom_menu_cancel_bg_pressed.xml",
-        "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\bottom_menu_cancel_bg_pressed.xml"
+        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_blue_small.xml",
+        "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\btn_blue_small.xml"
     },
     {
-        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\to_alpha.xml",
-        "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\to_alpha.xml"
+        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\white_to_alpha.xml",
+        "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\white_to_alpha.xml"
     },
     {
         "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_loading_bg.xml",
         "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\dialog_loading_bg.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\to_alpha.xml",
+        "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\to_alpha.xml"
     },
     {
         "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_white.xml",

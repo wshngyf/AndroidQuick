@@ -44,12 +44,12 @@
         "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\layout\\dialog_loading.xml"
     },
     {
-        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
-        "source": "C:\\Users\\Edianzu\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.0.2.aar\\eba8960c92c8620a740f002ff800cf5b\\res\\layout\\design_navigation_item.xml"
-    },
-    {
         "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
         "source": "C:\\Users\\Edianzu\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\2c5770af6f4b77fcf81c50b7369244ba\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\Edianzu\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.0.2.aar\\eba8960c92c8620a740f002ff800cf5b\\res\\layout\\design_navigation_item.xml"
     },
     {
         "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
@@ -64,12 +64,12 @@
         "source": "C:\\Users\\Edianzu\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\2c5770af6f4b77fcf81c50b7369244ba\\res\\layout\\abc_action_bar_up_container.xml"
     },
     {
-        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
-        "source": "C:\\Users\\Edianzu\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\2c5770af6f4b77fcf81c50b7369244ba\\res\\layout\\abc_action_bar_title_item.xml"
-    },
-    {
         "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
         "source": "C:\\Users\\Edianzu\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.0.2.aar\\eba8960c92c8620a740f002ff800cf5b\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\Edianzu\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\2c5770af6f4b77fcf81c50b7369244ba\\res\\layout\\abc_action_bar_title_item.xml"
     },
     {
         "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Edianzu\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.2.aar\\7a405ab6b6f1a55c8eb0d0f5b40c1f9c\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Edianzu\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.2.aar\\7a405ab6b6f1a55c8eb0d0f5b40c1f9c\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Edianzu\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.2.aar\\7a405ab6b6f1a55c8eb0d0f5b40c1f9c\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\Edianzu\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.2.aar\\7a405ab6b6f1a55c8eb0d0f5b40c1f9c\\res\\layout-v21\\notification_action.xml"
+    }
+]

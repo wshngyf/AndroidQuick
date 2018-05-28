@@ -28,12 +28,12 @@
         "source": "C:\\Users\\Edianzu\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\2c5770af6f4b77fcf81c50b7369244ba\\res\\drawable-xxhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
     },
     {
-        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
-        "source": "C:\\Users\\Edianzu\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\2c5770af6f4b77fcf81c50b7369244ba\\res\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
-    },
-    {
         "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
         "source": "C:\\Users\\Edianzu\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\2c5770af6f4b77fcf81c50b7369244ba\\res\\drawable-xxhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "C:\\Users\\Edianzu\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\2c5770af6f4b77fcf81c50b7369244ba\\res\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
     },
     {
         "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_star_half_black_36dp.png",
