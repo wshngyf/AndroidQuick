@@ -56,7 +56,7 @@ public class AddLicenseActivity extends BaseActivity {
         mSpProvince.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
             @Override
             public void onItemSelected(AdapterView<?> adapterView, View view, int position, long l) {
-                String[] province = getResources().getStringArray(R.array.spinner_province);
+                String[] province = mContext.getResources().getStringArray(R.array.spinner_province);
                 mProvince=province[position];
             }
 
@@ -69,7 +69,7 @@ public class AddLicenseActivity extends BaseActivity {
         mSpCity.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
             @Override
             public void onItemSelected(AdapterView<?> adapterView, View view, int position, long l) {
-                String[] city = getResources().getStringArray(R.array.spinner_city);
+                String[] city =  mContext.getResources().getStringArray(R.array.spinner_city);
                 mCity=city[position];
             }
 
@@ -90,7 +90,7 @@ public class AddLicenseActivity extends BaseActivity {
         }
         switch (v.getId()){
             case R.id.bt_addlicense_submit:
-                DialogUtil.showLoadingDialog(this,"正在提交");
+                DialogUtil.showLoadingDialog(mContext,"正在提交");
                 String author=mEtAuthor.getText().toString().trim();
                 String carnum=mEtCarnum.getText().toString().trim().toUpperCase();
                 String phonenum=mEtPhoneNum.getText().toString().trim();
@@ -107,7 +107,7 @@ public class AddLicenseActivity extends BaseActivity {
                         mEtCarnum.getText().clear();
                         mEtPhoneNum.getText().clear();
                         mEtRemark.getText().clear();
-                        DialogUtil.dismissLoadingDialog(AddLicenseActivity.this);
+                        DialogUtil.dismissLoadingDialog(mContext);
                         ToastUtil.showToast("添加成功");
 
                         Log.d("成功获取", "s=" + s);
@@ -115,7 +115,7 @@ public class AddLicenseActivity extends BaseActivity {
                 }, new Action1<Throwable>() {
                     @Override
                     public void call(Throwable throwable) {
-                        DialogUtil.dismissLoadingDialog(AddLicenseActivity.this);
+                        DialogUtil.dismissLoadingDialog(mContext);
 
                         // TODO: 2018/5/24 报异常 
                         ToastUtil.showToast("添加成功");
