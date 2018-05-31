@@ -1,79 +1,59 @@
 [
     {
-        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\release\\anim\\fade_out.xml",
-        "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\anim\\fade_out.xml"
-    },
-    {
-        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_exit.xml",
-        "source": "C:\\Users\\Edianzu\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\2c5770af6f4b77fcf81c50b7369244ba\\res\\anim\\abc_popup_exit.xml"
-    },
-    {
         "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_enter.xml",
         "source": "C:\\Users\\Edianzu\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\2c5770af6f4b77fcf81c50b7369244ba\\res\\anim\\abc_popup_enter.xml"
-    },
-    {
-        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\release\\anim\\right_push_in.xml",
-        "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\anim\\right_push_in.xml"
-    },
-    {
-        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\release\\anim\\push_in.xml",
-        "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\anim\\push_in.xml"
     },
     {
         "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\release\\anim\\fade.xml",
         "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\anim\\fade.xml"
     },
     {
-        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\release\\anim\\bottom_window_exit.xml",
-        "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\anim\\bottom_window_exit.xml"
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\release\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\yunfe_000\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.0.2.aar\\dc4d2ec8afadd49680d81551994b8e5a\\res\\anim\\design_bottom_sheet_slide_in.xml"
     },
     {
-        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_top.xml",
-        "source": "C:\\Users\\Edianzu\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\2c5770af6f4b77fcf81c50b7369244ba\\res\\anim\\abc_slide_in_top.xml"
-    },
-    {
-        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\release\\anim\\design_snackbar_out.xml",
-        "source": "C:\\Users\\Edianzu\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.0.2.aar\\eba8960c92c8620a740f002ff800cf5b\\res\\anim\\design_snackbar_out.xml"
-    },
-    {
-        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\release\\anim\\design_bottom_sheet_slide_out.xml",
-        "source": "C:\\Users\\Edianzu\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.0.2.aar\\eba8960c92c8620a740f002ff800cf5b\\res\\anim\\design_bottom_sheet_slide_out.xml"
-    },
-    {
-        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\release\\anim\\hold.xml",
-        "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\anim\\hold.xml"
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\release\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\yunfe_000\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\32fc45f7d32b5840f69cbd287e908f59\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
     },
     {
         "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_in.xml",
         "source": "C:\\Users\\Edianzu\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\2c5770af6f4b77fcf81c50b7369244ba\\res\\anim\\abc_fade_in.xml"
     },
     {
-        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\release\\anim\\right_push_out.xml",
-        "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\anim\\right_push_out.xml"
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\release\\anim\\top_out.xml",
+        "source": "G:\\AndroidQuick\\Core\\src\\main\\res\\anim\\top_out.xml"
     },
     {
         "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\release\\anim\\left_push_out.xml",
         "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\anim\\left_push_out.xml"
     },
     {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\release\\anim\\right_push_out.xml",
+        "source": "G:\\AndroidQuick\\Core\\src\\main\\res\\anim\\right_push_out.xml"
+    },
+    {
         "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\release\\anim\\right_out.xml",
         "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\anim\\right_out.xml"
     },
     {
-        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\release\\anim\\left_in.xml",
-        "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\anim\\left_in.xml"
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\release\\anim\\fade.xml",
+        "source": "G:\\AndroidQuick\\Core\\src\\main\\res\\anim\\fade.xml"
     },
     {
-        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\release\\anim\\top_out.xml",
-        "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\anim\\top_out.xml"
-    },
-    {
-        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\release\\anim\\design_snackbar_in.xml",
-        "source": "C:\\Users\\Edianzu\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.0.2.aar\\eba8960c92c8620a740f002ff800cf5b\\res\\anim\\design_snackbar_in.xml"
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\release\\anim\\push_in.xml",
+        "source": "G:\\AndroidQuick\\Core\\src\\main\\res\\anim\\push_in.xml"
     },
     {
         "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\release\\anim\\null_anim.xml",
         "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\anim\\null_anim.xml"
+    },
+    {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\yunfe_000\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\32fc45f7d32b5840f69cbd287e908f59\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\yunfe_000\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\32fc45f7d32b5840f69cbd287e908f59\\res\\anim\\abc_slide_out_top.xml"
     },
     {
         "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\release\\anim\\scale_out.xml",
@@ -88,56 +68,40 @@
         "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\anim\\right_in.xml"
     },
     {
-        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\release\\anim\\bottom_push_in.xml",
-        "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\anim\\bottom_push_in.xml"
-    },
-    {
-        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\release\\anim\\abc_grow_fade_in_from_bottom.xml",
-        "source": "C:\\Users\\Edianzu\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\2c5770af6f4b77fcf81c50b7369244ba\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
-    },
-    {
         "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\release\\anim\\push_out.xml",
         "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\anim\\push_out.xml"
+    },
+    {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\yunfe_000\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\32fc45f7d32b5840f69cbd287e908f59\\res\\anim\\abc_popup_exit.xml"
     },
     {
         "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\release\\anim\\bottom_window_enter.xml",
         "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\anim\\bottom_window_enter.xml"
     },
     {
-        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\release\\anim\\top_in.xml",
-        "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\anim\\top_in.xml"
-    },
-    {
         "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\release\\anim\\left_out.xml",
         "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\anim\\left_out.xml"
     },
     {
-        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_bottom.xml",
-        "source": "C:\\Users\\Edianzu\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\2c5770af6f4b77fcf81c50b7369244ba\\res\\anim\\abc_slide_out_bottom.xml"
-    },
-    {
-        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_out.xml",
-        "source": "C:\\Users\\Edianzu\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\2c5770af6f4b77fcf81c50b7369244ba\\res\\anim\\abc_fade_out.xml"
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\release\\anim\\right_push_in.xml",
+        "source": "G:\\AndroidQuick\\Core\\src\\main\\res\\anim\\right_push_in.xml"
     },
     {
         "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\release\\anim\\bottom_push_out.xml",
         "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\anim\\bottom_push_out.xml"
     },
     {
-        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\release\\anim\\scale_in.xml",
-        "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\anim\\scale_in.xml"
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\yunfe_000\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\32fc45f7d32b5840f69cbd287e908f59\\res\\anim\\abc_slide_out_bottom.xml"
     },
     {
         "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\release\\anim\\bottom_out.xml",
         "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\anim\\bottom_out.xml"
     },
     {
-        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\release\\anim\\fade_in.xml",
-        "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\anim\\fade_in.xml"
-    },
-    {
-        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\release\\anim\\bottom_in.xml",
-        "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\anim\\bottom_in.xml"
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\release\\anim\\fade_out.xml",
+        "source": "G:\\AndroidQuick\\Core\\src\\main\\res\\anim\\fade_out.xml"
     },
     {
         "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\release\\anim\\design_bottom_sheet_slide_in.xml",
@@ -156,11 +120,211 @@
         "source": "C:\\Users\\Edianzu\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\2c5770af6f4b77fcf81c50b7369244ba\\res\\anim\\tooltip_exit.xml"
     },
     {
-        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\release\\anim\\left_push_in.xml",
-        "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\anim\\left_push_in.xml"
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\release\\anim\\tooltip_exit.xml",
+        "source": "C:\\Users\\yunfe_000\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\32fc45f7d32b5840f69cbd287e908f59\\res\\anim\\tooltip_exit.xml"
     },
     {
         "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_top.xml",
         "source": "C:\\Users\\Edianzu\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\2c5770af6f4b77fcf81c50b7369244ba\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\release\\anim\\left_push_out.xml",
+        "source": "G:\\AndroidQuick\\Core\\src\\main\\res\\anim\\left_push_out.xml"
+    },
+    {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\release\\anim\\bottom_in.xml",
+        "source": "G:\\AndroidQuick\\Core\\src\\main\\res\\anim\\bottom_in.xml"
+    },
+    {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\release\\anim\\bottom_push_in.xml",
+        "source": "G:\\AndroidQuick\\Core\\src\\main\\res\\anim\\bottom_push_in.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\release\\anim\\fade_out.xml",
+        "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\anim\\fade_out.xml"
+    },
+    {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\release\\anim\\top_in.xml",
+        "source": "G:\\AndroidQuick\\Core\\src\\main\\res\\anim\\top_in.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Edianzu\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\2c5770af6f4b77fcf81c50b7369244ba\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\release\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\yunfe_000\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.0.2.aar\\dc4d2ec8afadd49680d81551994b8e5a\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\release\\anim\\bottom_push_out.xml",
+        "source": "G:\\AndroidQuick\\Core\\src\\main\\res\\anim\\bottom_push_out.xml"
+    },
+    {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\release\\anim\\scale_in.xml",
+        "source": "G:\\AndroidQuick\\Core\\src\\main\\res\\anim\\scale_in.xml"
+    },
+    {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\release\\anim\\null_anim.xml",
+        "source": "G:\\AndroidQuick\\Core\\src\\main\\res\\anim\\null_anim.xml"
+    },
+    {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\release\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\yunfe_000\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\32fc45f7d32b5840f69cbd287e908f59\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\release\\anim\\right_push_in.xml",
+        "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\anim\\right_push_in.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\release\\anim\\push_in.xml",
+        "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\anim\\push_in.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\release\\anim\\bottom_window_exit.xml",
+        "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\anim\\bottom_window_exit.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Edianzu\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\2c5770af6f4b77fcf81c50b7369244ba\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\release\\anim\\bottom_out.xml",
+        "source": "G:\\AndroidQuick\\Core\\src\\main\\res\\anim\\bottom_out.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\release\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\Edianzu\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.0.2.aar\\eba8960c92c8620a740f002ff800cf5b\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\release\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\Edianzu\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.0.2.aar\\eba8960c92c8620a740f002ff800cf5b\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\release\\anim\\hold.xml",
+        "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\anim\\hold.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\release\\anim\\right_push_out.xml",
+        "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\anim\\right_push_out.xml"
+    },
+    {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\release\\anim\\push_out.xml",
+        "source": "G:\\AndroidQuick\\Core\\src\\main\\res\\anim\\push_out.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\release\\anim\\left_in.xml",
+        "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\anim\\left_in.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\release\\anim\\top_out.xml",
+        "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\anim\\top_out.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\release\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\Edianzu\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.0.2.aar\\eba8960c92c8620a740f002ff800cf5b\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\release\\anim\\right_out.xml",
+        "source": "G:\\AndroidQuick\\Core\\src\\main\\res\\anim\\right_out.xml"
+    },
+    {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\release\\anim\\tooltip_enter.xml",
+        "source": "C:\\Users\\yunfe_000\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\32fc45f7d32b5840f69cbd287e908f59\\res\\anim\\tooltip_enter.xml"
+    },
+    {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\release\\anim\\bottom_window_exit.xml",
+        "source": "G:\\AndroidQuick\\Core\\src\\main\\res\\anim\\bottom_window_exit.xml"
+    },
+    {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\release\\anim\\fade_in.xml",
+        "source": "G:\\AndroidQuick\\Core\\src\\main\\res\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\release\\anim\\bottom_push_in.xml",
+        "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\anim\\bottom_push_in.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\release\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\Edianzu\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\2c5770af6f4b77fcf81c50b7369244ba\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\release\\anim\\scale_out.xml",
+        "source": "G:\\AndroidQuick\\Core\\src\\main\\res\\anim\\scale_out.xml"
+    },
+    {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\yunfe_000\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\32fc45f7d32b5840f69cbd287e908f59\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\release\\anim\\top_in.xml",
+        "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\anim\\top_in.xml"
+    },
+    {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\release\\anim\\bottom_window_enter.xml",
+        "source": "G:\\AndroidQuick\\Core\\src\\main\\res\\anim\\bottom_window_enter.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Edianzu\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\2c5770af6f4b77fcf81c50b7369244ba\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\yunfe_000\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\32fc45f7d32b5840f69cbd287e908f59\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Edianzu\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\2c5770af6f4b77fcf81c50b7369244ba\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\release\\anim\\scale_in.xml",
+        "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\anim\\scale_in.xml"
+    },
+    {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\yunfe_000\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\32fc45f7d32b5840f69cbd287e908f59\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\release\\anim\\left_in.xml",
+        "source": "G:\\AndroidQuick\\Core\\src\\main\\res\\anim\\left_in.xml"
+    },
+    {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\release\\anim\\hold.xml",
+        "source": "G:\\AndroidQuick\\Core\\src\\main\\res\\anim\\hold.xml"
+    },
+    {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\release\\anim\\right_in.xml",
+        "source": "G:\\AndroidQuick\\Core\\src\\main\\res\\anim\\right_in.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\release\\anim\\fade_in.xml",
+        "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\release\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\yunfe_000\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.0.2.aar\\dc4d2ec8afadd49680d81551994b8e5a\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\yunfe_000\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\32fc45f7d32b5840f69cbd287e908f59\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\release\\anim\\bottom_in.xml",
+        "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\anim\\bottom_in.xml"
+    },
+    {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\release\\anim\\left_out.xml",
+        "source": "G:\\AndroidQuick\\Core\\src\\main\\res\\anim\\left_out.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\release\\anim\\left_push_in.xml",
+        "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\anim\\left_push_in.xml"
+    },
+    {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\release\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\yunfe_000\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.0.2.aar\\dc4d2ec8afadd49680d81551994b8e5a\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\release\\anim\\left_push_in.xml",
+        "source": "G:\\AndroidQuick\\Core\\src\\main\\res\\anim\\left_push_in.xml"
     }
 ]

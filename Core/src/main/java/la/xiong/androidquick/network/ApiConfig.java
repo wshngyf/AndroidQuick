@@ -6,7 +6,7 @@ package la.xiong.androidquick.network;
 
 public class ApiConfig {
     //访问域名
-    //public static String API_URL = "http://www.alertpig.com";
-    public static String API_URL = "http://192.168.2.229:8000/";
+    public static String API_URL = "http://www.alertpig.com";
+    //public static String API_URL = "http://192.168.4.120:8000/";
 
 }

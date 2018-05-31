@@ -14,12 +14,15 @@ import butterknife.BindView;
 import butterknife.OnClick;
 import la.xiong.androidquick.demo.R;
 import la.xiong.androidquick.demo.base.BaseActivity;
+import la.xiong.androidquick.demo.network.loader.HttpResult;
 import la.xiong.androidquick.demo.network.loader.LicensePlateLoader;
+import la.xiong.androidquick.demo.network.loader.SuccessEntity;
 import la.xiong.androidquick.tool.AppUtil;
 import la.xiong.androidquick.tool.DialogUtil;
 import la.xiong.androidquick.tool.StrUtil;
 import la.xiong.androidquick.tool.ToastUtil;
 import la.xiong.androidquick.ui.dialog.CommonDialog;
+import rx.Subscriber;
 import rx.functions.Action1;
 
 /**
@@ -42,7 +45,7 @@ public class AddLicenseActivity extends BaseActivity {
 
     String mProvince;
     String mCity;
-
+    Subscriber subscriber;
     private LicensePlateLoader mAppLoader;
 
     @Override
@@ -80,7 +83,30 @@ public class AddLicenseActivity extends BaseActivity {
         });
 
         mEtCarnum.setTransformationMethod(new AllCapTransformationMethod(true));
+        subscriber = new Subscriber<SuccessEntity>(){
+            @Override
+            public void onCompleted() {
 
+            }
+
+            @Override
+            public void onError(Throwable e) {
+                DialogUtil.dismissLoadingDialog(mContext);
+                ToastUtil.showToast(e.getMessage());
+                mEtCarnum.getText().clear();
+                mEtPhoneNum.getText().clear();
+                mEtRemark.getText().clear();
+            }
+
+            @Override
+            public void onNext(SuccessEntity successEntity) {
+                mEtCarnum.getText().clear();
+                mEtPhoneNum.getText().clear();
+                mEtRemark.getText().clear();
+                DialogUtil.dismissLoadingDialog(mContext);
+                ToastUtil.showToast(successEntity.getLicenseplate()+"-添加成功");
+            }
+        };
     }
 
     @OnClick({R.id.bt_addlicense_submit,R.id.et_addlicense_author,R.id.et_addlicense_remark,R.id.et_addlicence_phonenum})
@@ -91,40 +117,31 @@ public class AddLicenseActivity extends BaseActivity {
         switch (v.getId()){
             case R.id.bt_addlicense_submit:
                 DialogUtil.showLoadingDialog(mContext,"正在提交");
+
                 String author=mEtAuthor.getText().toString().trim();
                 String carnum=mEtCarnum.getText().toString().trim().toUpperCase();
                 String phonenum=mEtPhoneNum.getText().toString().trim();
                 String remark=mEtRemark.getText().toString().trim();
                 if(StrUtil.isEmpty(author)||StrUtil.isEmpty(carnum)||StrUtil.isEmpty(phonenum)){
+                    DialogUtil.dismissLoadingDialog(mContext);
+
                     ToastUtil.showToast("车牌、手机号、采集人必填，备注可以不填");
                     return;
                 }
+                if(carnum.length()!=5){
+                    DialogUtil.dismissLoadingDialog(mContext);
 
-                mAppLoader.submitLicense(mProvince,mCity,carnum,phonenum,remark,author)
-                .subscribe(new Action1<String>() {
-                    @Override
-                    public void call(String s) {
-                        mEtCarnum.getText().clear();
-                        mEtPhoneNum.getText().clear();
-                        mEtRemark.getText().clear();
-                        DialogUtil.dismissLoadingDialog(mContext);
-                        ToastUtil.showToast("添加成功");
+                    ToastUtil.showToast("车牌不够5位");
+                    return;
+                }
+                if(phonenum.length()!=11){
+                    DialogUtil.dismissLoadingDialog(mContext);
 
-                        Log.d("成功获取", "s=" + s);
-                    }
-                }, new Action1<Throwable>() {
-                    @Override
-                    public void call(Throwable throwable) {
-                        DialogUtil.dismissLoadingDialog(mContext);
+                    ToastUtil.showToast("手机号不够11位");
+                    return;
+                }
+                mAppLoader.submitLicense(subscriber,mProvince,mCity,carnum,phonenum,remark,author);
 
-                        // TODO: 2018/5/24 报异常 
-                        ToastUtil.showToast("添加成功");
-                        mEtCarnum.getText().clear();
-                        mEtPhoneNum.getText().clear();
-                        mEtRemark.getText().clear();
-                        Log.d("throwable","error="+throwable);
-                    }
-                });
                 break;
         }
     }

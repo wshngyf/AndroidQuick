@@ -1,5 +1,9 @@
 [
     {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\image_loading.png",
+        "source": "G:\\AndroidQuick\\Core\\src\\main\\res\\drawable-nodpi\\image_loading.png"
+    },
+    {
         "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\image_loading.png",
         "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable-nodpi\\image_loading.png"
     }

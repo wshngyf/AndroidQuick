@@ -8,7 +8,19 @@
         "source": "C:\\Users\\Edianzu\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\2c5770af6f4b77fcf81c50b7369244ba\\res\\drawable-ldrtl-xxhdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-xxhdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "C:\\Users\\yunfe_000\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\32fc45f7d32b5840f69cbd287e908f59\\res\\drawable-ldrtl-xxhdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-xxhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "C:\\Users\\yunfe_000\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\32fc45f7d32b5840f69cbd287e908f59\\res\\drawable-ldrtl-xxhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
         "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-xxhdpi-v17\\abc_spinner_mtrl_am_alpha.9.png",
         "source": "C:\\Users\\Edianzu\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\2c5770af6f4b77fcf81c50b7369244ba\\res\\drawable-ldrtl-xxhdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-xxhdpi-v17\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "C:\\Users\\yunfe_000\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\32fc45f7d32b5840f69cbd287e908f59\\res\\drawable-ldrtl-xxhdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
     }
 ]

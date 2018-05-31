@@ -29,6 +29,36 @@
                     }
                 }
             ]
+        },
+        {
+            "outputFile": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\values-v18\\values-v18.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\yunfe_000\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\32fc45f7d32b5840f69cbd287e908f59\\res\\values-v18\\values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "G:\\AndroidQuick\\Core\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v18\\values-v18.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\yunfe_000\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\32fc45f7d32b5840f69cbd287e908f59\\res\\values-v18\\values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
         }
     ]
 }

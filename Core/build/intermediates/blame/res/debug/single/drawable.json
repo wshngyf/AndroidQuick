@@ -4,6 +4,450 @@
         "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\dialog_button_pressed_bg_left.xml"
     },
     {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_bg_right_selector.xml",
+        "source": "G:\\AndroidQuick\\Core\\src\\main\\res\\drawable\\tab_bg_right_selector.xml"
+    },
+    {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\yunfe_000\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\32fc45f7d32b5840f69cbd287e908f59\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\oval_white.xml",
+        "source": "G:\\AndroidQuick\\Core\\src\\main\\res\\drawable\\oval_white.xml"
+    },
+    {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_blue_round_bg_normal.xml",
+        "source": "G:\\AndroidQuick\\Core\\src\\main\\res\\drawable\\btn_blue_round_bg_normal.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_right_btn_bg.xml",
+        "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\dialog_right_btn_bg.xml"
+    },
+    {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\yunfe_000\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\32fc45f7d32b5840f69cbd287e908f59\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\yunfe_000\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\32fc45f7d32b5840f69cbd287e908f59\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_dialog_button_left.xml",
+        "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\selector_dialog_button_left.xml"
+    },
+    {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\yunfe_000\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\32fc45f7d32b5840f69cbd287e908f59\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_dialog_button_right.xml",
+        "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\selector_dialog_button_right.xml"
+    },
+    {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\yunfe_000\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\32fc45f7d32b5840f69cbd287e908f59\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\bottom_menu_cancel_bg.xml",
+        "source": "G:\\AndroidQuick\\Core\\src\\main\\res\\drawable\\bottom_menu_cancel_bg.xml"
+    },
+    {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_bg_common.xml",
+        "source": "G:\\AndroidQuick\\Core\\src\\main\\res\\drawable\\dialog_bg_common.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Edianzu\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\2c5770af6f4b77fcf81c50b7369244ba\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_button_pressed_bg_right.xml",
+        "source": "G:\\AndroidQuick\\Core\\src\\main\\res\\drawable\\dialog_button_pressed_bg_right.xml"
+    },
+    {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_blue_round_big_pressed.xml",
+        "source": "G:\\AndroidQuick\\Core\\src\\main\\res\\drawable\\btn_blue_round_big_pressed.xml"
+    },
+    {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\yunfe_000\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\32fc45f7d32b5840f69cbd287e908f59\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\Edianzu\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\2c5770af6f4b77fcf81c50b7369244ba\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\Edianzu\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.0.2.aar\\eba8960c92c8620a740f002ff800cf5b\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\tooltip_frame_dark.xml",
+        "source": "C:\\Users\\yunfe_000\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\32fc45f7d32b5840f69cbd287e908f59\\res\\drawable\\tooltip_frame_dark.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_orange_bg.xml",
+        "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\btn_orange_bg.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\round_alpha.xml",
+        "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\round_alpha.xml"
+    },
+    {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\bottom_menu_bg.xml",
+        "source": "G:\\AndroidQuick\\Core\\src\\main\\res\\drawable\\bottom_menu_bg.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\list_item_blank_divider.xml",
+        "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\list_item_blank_divider.xml"
+    },
+    {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_yellow.xml",
+        "source": "G:\\AndroidQuick\\Core\\src\\main\\res\\drawable\\circle_yellow.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_loading_bg.xml",
+        "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\dialog_loading_bg.xml"
+    },
+    {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\yunfe_000\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.2.aar\\7b8292a764eccca777f4f2e75392d8bc\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\yunfe_000\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.0.2.aar\\dc4d2ec8afadd49680d81551994b8e5a\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\Edianzu\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.2.aar\\7a405ab6b6f1a55c8eb0d0f5b40c1f9c\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\yunfe_000\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\32fc45f7d32b5840f69cbd287e908f59\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\cilcle_gray_to_white.xml",
+        "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\cilcle_gray_to_white.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Edianzu\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\2c5770af6f4b77fcf81c50b7369244ba\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_text_bg.xml",
+        "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\edit_text_bg.xml"
+    },
+    {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_loading_bg.xml",
+        "source": "G:\\AndroidQuick\\Core\\src\\main\\res\\drawable\\dialog_loading_bg.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_bg_right_selector.xml",
+        "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\tab_bg_right_selector.xml"
+    },
+    {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\yunfe_000\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\32fc45f7d32b5840f69cbd287e908f59\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_msg_bubble.xml",
+        "source": "G:\\AndroidQuick\\Core\\src\\main\\res\\drawable\\bg_msg_bubble.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_blue_pressed_shape.xml",
+        "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\btn_blue_pressed_shape.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Edianzu\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\2c5770af6f4b77fcf81c50b7369244ba\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_common_bg.xml",
+        "source": "G:\\AndroidQuick\\Core\\src\\main\\res\\drawable\\dialog_common_bg.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_button_pressed_bg_right.xml",
+        "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\dialog_button_pressed_bg_right.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Edianzu\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\2c5770af6f4b77fcf81c50b7369244ba\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\yunfe_000\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\32fc45f7d32b5840f69cbd287e908f59\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Edianzu\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\2c5770af6f4b77fcf81c50b7369244ba\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\round_alpha.xml",
+        "source": "G:\\AndroidQuick\\Core\\src\\main\\res\\drawable\\round_alpha.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Edianzu\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\2c5770af6f4b77fcf81c50b7369244ba\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_item_text_bg.xml",
+        "source": "G:\\AndroidQuick\\Core\\src\\main\\res\\drawable\\edit_item_text_bg.xml"
+    },
+    {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\yunfe_000\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\32fc45f7d32b5840f69cbd287e908f59\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Edianzu\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\2c5770af6f4b77fcf81c50b7369244ba\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_red_round_bg_normal.xml",
+        "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\btn_red_round_bg_normal.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_red_round_bg_pressed.xml",
+        "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\btn_red_round_bg_pressed.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_blue.xml",
+        "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\circle_blue.xml"
+    },
+    {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\white_to_alpha.xml",
+        "source": "G:\\AndroidQuick\\Core\\src\\main\\res\\drawable\\white_to_alpha.xml"
+    },
+    {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\yunfe_000\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\32fc45f7d32b5840f69cbd287e908f59\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\list_item_blank_divider.xml",
+        "source": "G:\\AndroidQuick\\Core\\src\\main\\res\\drawable\\list_item_blank_divider.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_blue_round_bg_pressed.xml",
+        "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\btn_blue_round_bg_pressed.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Edianzu\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\2c5770af6f4b77fcf81c50b7369244ba\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_bg_left_full_white.xml",
+        "source": "G:\\AndroidQuick\\Core\\src\\main\\res\\drawable\\tab_bg_left_full_white.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Edianzu\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\2c5770af6f4b77fcf81c50b7369244ba\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_bg_right_full_white.xml",
+        "source": "G:\\AndroidQuick\\Core\\src\\main\\res\\drawable\\tab_bg_right_full_white.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\Edianzu\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.0.2.aar\\eba8960c92c8620a740f002ff800cf5b\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\alpha3.xml",
+        "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\alpha3.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_bg.xml",
+        "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\dialog_bg.xml"
+    },
+    {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_blue_pressed_shape.xml",
+        "source": "G:\\AndroidQuick\\Core\\src\\main\\res\\drawable\\btn_blue_pressed_shape.xml"
+    },
+    {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_dialog_button_right.xml",
+        "source": "G:\\AndroidQuick\\Core\\src\\main\\res\\drawable\\selector_dialog_button_right.xml"
+    },
+    {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\tooltip_frame_light.xml",
+        "source": "C:\\Users\\yunfe_000\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\32fc45f7d32b5840f69cbd287e908f59\\res\\drawable\\tooltip_frame_light.xml"
+    },
+    {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\gray_to_alpha.xml",
+        "source": "G:\\AndroidQuick\\Core\\src\\main\\res\\drawable\\gray_to_alpha.xml"
+    },
+    {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\yunfe_000\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\32fc45f7d32b5840f69cbd287e908f59\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\Edianzu\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\2c5770af6f4b77fcf81c50b7369244ba\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\yunfe_000\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\32fc45f7d32b5840f69cbd287e908f59\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_bg_rec.xml",
+        "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\dialog_bg_rec.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_blue_sky_bg.xml",
+        "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\btn_blue_sky_bg.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\Edianzu\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\2c5770af6f4b77fcf81c50b7369244ba\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\round_empty_white.xml",
+        "source": "G:\\AndroidQuick\\Core\\src\\main\\res\\drawable\\round_empty_white.xml"
+    },
+    {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_blue.xml",
+        "source": "G:\\AndroidQuick\\Core\\src\\main\\res\\drawable\\circle_blue.xml"
+    },
+    {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\yunfe_000\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\32fc45f7d32b5840f69cbd287e908f59\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Edianzu\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\2c5770af6f4b77fcf81c50b7369244ba\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\yunfe_000\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.2.aar\\7b8292a764eccca777f4f2e75392d8bc\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\yunfe_000\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\32fc45f7d32b5840f69cbd287e908f59\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_blue_round_bg_normal.xml",
+        "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\btn_blue_round_bg_normal.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\list_item_bg.xml",
+        "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\list_item_bg.xml"
+    },
+    {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\yunfe_000\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\32fc45f7d32b5840f69cbd287e908f59\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Edianzu\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\2c5770af6f4b77fcf81c50b7369244ba\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\oval_alpha.xml",
+        "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\oval_alpha.xml"
+    },
+    {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\to_white_slight.xml",
+        "source": "G:\\AndroidQuick\\Core\\src\\main\\res\\drawable\\to_white_slight.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Edianzu\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\2c5770af6f4b77fcf81c50b7369244ba\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\input_bg.xml",
+        "source": "G:\\AndroidQuick\\Core\\src\\main\\res\\drawable\\input_bg.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Edianzu\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.2.aar\\7a405ab6b6f1a55c8eb0d0f5b40c1f9c\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\yunfe_000\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\32fc45f7d32b5840f69cbd287e908f59\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\Edianzu\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.2.aar\\7a405ab6b6f1a55c8eb0d0f5b40c1f9c\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_cusor.xml",
+        "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\edit_cusor.xml"
+    },
+    {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\yunfe_000\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\32fc45f7d32b5840f69cbd287e908f59\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_red_round_bg.xml",
+        "source": "G:\\AndroidQuick\\Core\\src\\main\\res\\drawable\\btn_red_round_bg.xml"
+    },
+    {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_pink.xml",
+        "source": "G:\\AndroidQuick\\Core\\src\\main\\res\\drawable\\circle_pink.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\cilcle_gray.xml",
+        "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\cilcle_gray.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\tooltip_frame_dark.xml",
+        "source": "C:\\Users\\Edianzu\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\2c5770af6f4b77fcf81c50b7369244ba\\res\\drawable\\tooltip_frame_dark.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\Edianzu\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.2.aar\\7a405ab6b6f1a55c8eb0d0f5b40c1f9c\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\null_drawable.xml",
+        "source": "G:\\AndroidQuick\\Core\\src\\main\\res\\drawable\\null_drawable.xml"
+    },
+    {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_dialog_button_left.xml",
+        "source": "G:\\AndroidQuick\\Core\\src\\main\\res\\drawable\\selector_dialog_button_left.xml"
+    },
+    {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\white_to_gray.xml",
+        "source": "G:\\AndroidQuick\\Core\\src\\main\\res\\drawable\\white_to_gray.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_gray_bg.xml",
+        "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\icon_gray_bg.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_left_btn_bg.xml",
+        "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\dialog_left_btn_bg.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_blue_bg.xml",
+        "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\btn_blue_bg.xml"
+    },
+    {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_blue_small.xml",
+        "source": "G:\\AndroidQuick\\Core\\src\\main\\res\\drawable\\btn_blue_small.xml"
+    },
+    {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\yunfe_000\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.0.2.aar\\dc4d2ec8afadd49680d81551994b8e5a\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_bg_common.xml",
+        "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\dialog_bg_common.xml"
+    },
+    {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\round_green.xml",
+        "source": "G:\\AndroidQuick\\Core\\src\\main\\res\\drawable\\round_green.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\Edianzu\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.0.2.aar\\eba8960c92c8620a740f002ff800cf5b\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\bottom_menu_cancel_bg.xml",
+        "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\bottom_menu_cancel_bg.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\bottom_menu_bg.xml",
+        "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\bottom_menu_bg.xml"
+    },
+    {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_bg_left_selector.xml",
+        "source": "G:\\AndroidQuick\\Core\\src\\main\\res\\drawable\\tab_bg_left_selector.xml"
+    },
+    {
         "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_yellow.xml",
         "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\circle_yellow.xml"
     },
@@ -24,8 +468,12 @@
         "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\oval_white.xml"
     },
     {
-        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_right_btn_bg.xml",
-        "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\dialog_right_btn_bg.xml"
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_blue_selector.xml",
+        "source": "G:\\AndroidQuick\\Core\\src\\main\\res\\drawable\\btn_blue_selector.xml"
+    },
+    {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_gray_bg.xml",
+        "source": "G:\\AndroidQuick\\Core\\src\\main\\res\\drawable\\icon_gray_bg.xml"
     },
     {
         "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_bg_right_full_white.xml",
@@ -40,12 +488,8 @@
         "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\bottom_menu_cancel_bg_normal.xml"
     },
     {
-        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_dialog_button_left.xml",
-        "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\selector_dialog_button_left.xml"
-    },
-    {
-        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_dialog_button_right.xml",
-        "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\selector_dialog_button_right.xml"
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\yunfe_000\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.0.2.aar\\dc4d2ec8afadd49680d81551994b8e5a\\res\\drawable\\design_fab_background.xml"
     },
     {
         "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_bg_left_full_white.xml",
@@ -72,40 +516,48 @@
         "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\to_white_slight.xml"
     },
     {
-        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_red_round_bg.xml",
-        "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\btn_red_round_bg.xml"
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_bg_center_selector.xml",
+        "source": "G:\\AndroidQuick\\Core\\src\\main\\res\\drawable\\tab_bg_center_selector.xml"
+    },
+    {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\black_to_white_alpha.xml",
+        "source": "G:\\AndroidQuick\\Core\\src\\main\\res\\drawable\\black_to_white_alpha.xml"
     },
     {
         "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\bottom_menu_item_bg.xml",
         "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\bottom_menu_item_bg.xml"
     },
     {
+        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_red_round_bg.xml",
+        "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\btn_red_round_bg.xml"
+    },
+    {
         "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
         "source": "C:\\Users\\Edianzu\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\2c5770af6f4b77fcf81c50b7369244ba\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\yunfe_000\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\32fc45f7d32b5840f69cbd287e908f59\\res\\drawable\\abc_tab_indicator_material.xml"
     },
     {
         "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_horizontal.xml",
         "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\progress_horizontal.xml"
     },
     {
-        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
-        "source": "C:\\Users\\Edianzu\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\2c5770af6f4b77fcf81c50b7369244ba\\res\\drawable\\abc_edit_text_material.xml"
-    },
-    {
         "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
         "source": "C:\\Users\\Edianzu\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\2c5770af6f4b77fcf81c50b7369244ba\\res\\drawable\\abc_btn_check_material.xml"
     },
     {
-        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
-        "source": "C:\\Users\\Edianzu\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\2c5770af6f4b77fcf81c50b7369244ba\\res\\drawable\\abc_ic_clear_material.xml"
-    },
-    {
-        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
-        "source": "C:\\Users\\Edianzu\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.0.2.aar\\eba8960c92c8620a740f002ff800cf5b\\res\\drawable\\design_bottom_navigation_item_background.xml"
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\to_alpha.xml",
+        "source": "G:\\AndroidQuick\\Core\\src\\main\\res\\drawable\\to_alpha.xml"
     },
     {
         "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
         "source": "C:\\Users\\Edianzu\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\2c5770af6f4b77fcf81c50b7369244ba\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\yunfe_000\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.0.2.aar\\dc4d2ec8afadd49680d81551994b8e5a\\res\\drawable\\navigation_empty_icon.xml"
     },
     {
         "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
@@ -116,56 +568,80 @@
         "source": "C:\\Users\\Edianzu\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\2c5770af6f4b77fcf81c50b7369244ba\\res\\drawable\\abc_dialog_material_background.xml"
     },
     {
-        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_orange_bg.xml",
-        "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\btn_orange_bg.xml"
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\bottom_menu_item_bg.xml",
+        "source": "G:\\AndroidQuick\\Core\\src\\main\\res\\drawable\\bottom_menu_item_bg.xml"
+    },
+    {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\yunfe_000\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\32fc45f7d32b5840f69cbd287e908f59\\res\\drawable\\abc_btn_radio_material.xml"
     },
     {
         "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_blue_selector.xml",
         "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\btn_blue_selector.xml"
     },
     {
-        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\round_alpha.xml",
-        "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\round_alpha.xml"
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_orange_bg.xml",
+        "source": "G:\\AndroidQuick\\Core\\src\\main\\res\\drawable\\btn_orange_bg.xml"
     },
     {
-        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\list_item_blank_divider.xml",
-        "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\list_item_blank_divider.xml"
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_green.xml",
+        "source": "G:\\AndroidQuick\\Core\\src\\main\\res\\drawable\\circle_green.xml"
     },
     {
-        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\white_to_alpha.xml",
-        "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\white_to_alpha.xml"
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_horizontal.xml",
+        "source": "G:\\AndroidQuick\\Core\\src\\main\\res\\drawable\\progress_horizontal.xml"
     },
     {
-        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_blue_small.xml",
-        "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\btn_blue_small.xml"
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_bg_rec.xml",
+        "source": "G:\\AndroidQuick\\Core\\src\\main\\res\\drawable\\dialog_bg_rec.xml"
     },
     {
-        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_blue_round_bg.xml",
-        "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\btn_blue_round_bg.xml"
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\alpha_to_darker.xml",
+        "source": "G:\\AndroidQuick\\Core\\src\\main\\res\\drawable\\alpha_to_darker.xml"
     },
     {
         "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\bottom_menu_cancel_bg_pressed.xml",
         "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\bottom_menu_cancel_bg_pressed.xml"
     },
     {
+        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_blue_round_bg.xml",
+        "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\btn_blue_round_bg.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_blue_small.xml",
+        "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\btn_blue_small.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\white_to_alpha.xml",
+        "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\white_to_alpha.xml"
+    },
+    {
         "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\to_alpha.xml",
         "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\to_alpha.xml"
     },
     {
-        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_loading_bg.xml",
-        "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\dialog_loading_bg.xml"
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_blue_round_bg.xml",
+        "source": "G:\\AndroidQuick\\Core\\src\\main\\res\\drawable\\btn_blue_round_bg.xml"
     },
     {
         "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_white.xml",
         "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\circle_white.xml"
     },
     {
-        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
-        "source": "C:\\Users\\Edianzu\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.2.aar\\7a405ab6b6f1a55c8eb0d0f5b40c1f9c\\res\\drawable\\notification_bg_low.xml"
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\design_password_eye.xml",
+        "source": "C:\\Users\\yunfe_000\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.0.2.aar\\dc4d2ec8afadd49680d81551994b8e5a\\res\\drawable\\design_password_eye.xml"
     },
     {
-        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\cilcle_gray_to_white.xml",
-        "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\cilcle_gray_to_white.xml"
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_blue_round_big_normal.xml",
+        "source": "G:\\AndroidQuick\\Core\\src\\main\\res\\drawable\\btn_blue_round_big_normal.xml"
+    },
+    {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\cilcle_gray_to_white.xml",
+        "source": "G:\\AndroidQuick\\Core\\src\\main\\res\\drawable\\cilcle_gray_to_white.xml"
+    },
+    {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_blue_sky_bg.xml",
+        "source": "G:\\AndroidQuick\\Core\\src\\main\\res\\drawable\\btn_blue_sky_bg.xml"
     },
     {
         "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_white_bg.xml",
@@ -176,80 +652,44 @@
         "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\dialog_btn_bg.xml"
     },
     {
-        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
-        "source": "C:\\Users\\Edianzu\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\2c5770af6f4b77fcf81c50b7369244ba\\res\\drawable\\abc_list_selector_holo_light.xml"
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\yunfe_000\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\32fc45f7d32b5840f69cbd287e908f59\\res\\drawable\\abc_seekbar_thumb_material.xml"
     },
     {
         "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
         "source": "C:\\Users\\Edianzu\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\2c5770af6f4b77fcf81c50b7369244ba\\res\\drawable\\abc_ic_search_api_material.xml"
     },
     {
-        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_text_bg.xml",
-        "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\edit_text_bg.xml"
-    },
-    {
         "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
         "source": "C:\\Users\\Edianzu\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\2c5770af6f4b77fcf81c50b7369244ba\\res\\drawable\\abc_text_cursor_material.xml"
     },
     {
-        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_bg_right_selector.xml",
-        "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\tab_bg_right_selector.xml"
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\yunfe_000\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\32fc45f7d32b5840f69cbd287e908f59\\res\\drawable\\abc_item_background_holo_dark.xml"
     },
     {
-        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_blue_pressed_shape.xml",
-        "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\btn_blue_pressed_shape.xml"
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\green_to_darker.xml",
+        "source": "G:\\AndroidQuick\\Core\\src\\main\\res\\drawable\\green_to_darker.xml"
     },
     {
         "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\input_bg_pressed.xml",
         "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\input_bg_pressed.xml"
     },
     {
-        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
-        "source": "C:\\Users\\Edianzu\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\2c5770af6f4b77fcf81c50b7369244ba\\res\\drawable\\abc_ratingbar_small_material.xml"
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\alpha3.xml",
+        "source": "G:\\AndroidQuick\\Core\\src\\main\\res\\drawable\\alpha3.xml"
     },
     {
-        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_button_pressed_bg_right.xml",
-        "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\dialog_button_pressed_bg_right.xml"
-    },
-    {
-        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
-        "source": "C:\\Users\\Edianzu\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\2c5770af6f4b77fcf81c50b7369244ba\\res\\drawable\\abc_btn_colored_material.xml"
-    },
-    {
-        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
-        "source": "C:\\Users\\Edianzu\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\2c5770af6f4b77fcf81c50b7369244ba\\res\\drawable\\abc_switch_thumb_material.xml"
-    },
-    {
-        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
-        "source": "C:\\Users\\Edianzu\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\2c5770af6f4b77fcf81c50b7369244ba\\res\\drawable\\abc_ratingbar_indicator_material.xml"
-    },
-    {
-        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
-        "source": "C:\\Users\\Edianzu\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\2c5770af6f4b77fcf81c50b7369244ba\\res\\drawable\\abc_seekbar_thumb_material.xml"
-    },
-    {
-        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_red_round_bg_normal.xml",
-        "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\btn_red_round_bg_normal.xml"
-    },
-    {
-        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_red_round_bg_pressed.xml",
-        "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\btn_red_round_bg_pressed.xml"
-    },
-    {
-        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_blue.xml",
-        "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\circle_blue.xml"
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\yunfe_000\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\32fc45f7d32b5840f69cbd287e908f59\\res\\drawable\\abc_btn_check_material.xml"
     },
     {
         "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_common_bg.xml",
         "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\dialog_common_bg.xml"
     },
     {
-        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_blue_round_bg_pressed.xml",
-        "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\btn_blue_round_bg_pressed.xml"
-    },
-    {
-        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
-        "source": "C:\\Users\\Edianzu\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\2c5770af6f4b77fcf81c50b7369244ba\\res\\drawable\\abc_item_background_holo_light.xml"
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\yunfe_000\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\32fc45f7d32b5840f69cbd287e908f59\\res\\drawable\\abc_spinner_textfield_background_material.xml"
     },
     {
         "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
@@ -260,20 +700,12 @@
         "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\tab_bg_center_selector.xml"
     },
     {
-        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
-        "source": "C:\\Users\\Edianzu\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\2c5770af6f4b77fcf81c50b7369244ba\\res\\drawable\\abc_textfield_search_material.xml"
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\yunfe_000\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\32fc45f7d32b5840f69cbd287e908f59\\res\\drawable\\abc_ic_menu_overflow_material.xml"
     },
     {
-        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
-        "source": "C:\\Users\\Edianzu\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.0.2.aar\\eba8960c92c8620a740f002ff800cf5b\\res\\drawable\\navigation_empty_icon.xml"
-    },
-    {
-        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\alpha3.xml",
-        "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\alpha3.xml"
-    },
-    {
-        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_bg.xml",
-        "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\dialog_bg.xml"
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\yunfe_000\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\32fc45f7d32b5840f69cbd287e908f59\\res\\drawable\\abc_ic_voice_search_api_material.xml"
     },
     {
         "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_green_bg.xml",
@@ -284,16 +716,32 @@
         "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\alpha_to_darker.xml"
     },
     {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\bottom_menu_cancel_bg_normal.xml",
+        "source": "G:\\AndroidQuick\\Core\\src\\main\\res\\drawable\\bottom_menu_cancel_bg_normal.xml"
+    },
+    {
         "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\black_to_white_alpha.xml",
         "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\black_to_white_alpha.xml"
     },
     {
-        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
-        "source": "C:\\Users\\Edianzu\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\2c5770af6f4b77fcf81c50b7369244ba\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_blue_bg.xml",
+        "source": "G:\\AndroidQuick\\Core\\src\\main\\res\\drawable\\btn_blue_bg.xml"
     },
     {
-        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
-        "source": "C:\\Users\\Edianzu\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\2c5770af6f4b77fcf81c50b7369244ba\\res\\drawable\\abc_ratingbar_material.xml"
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\list_item_bg.xml",
+        "source": "G:\\AndroidQuick\\Core\\src\\main\\res\\drawable\\list_item_bg.xml"
+    },
+    {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_red_round_bg_pressed.xml",
+        "source": "G:\\AndroidQuick\\Core\\src\\main\\res\\drawable\\btn_red_round_bg_pressed.xml"
+    },
+    {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_bg.xml",
+        "source": "G:\\AndroidQuick\\Core\\src\\main\\res\\drawable\\dialog_bg.xml"
+    },
+    {
+        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\Edianzu\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\2c5770af6f4b77fcf81c50b7369244ba\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
     },
     {
         "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
@@ -304,10 +752,6 @@
         "source": "C:\\Users\\Edianzu\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\2c5770af6f4b77fcf81c50b7369244ba\\res\\drawable\\abc_cab_background_top_material.xml"
     },
     {
-        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_bg_rec.xml",
-        "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\dialog_bg_rec.xml"
-    },
-    {
         "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\square_alpha.xml",
         "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\square_alpha.xml"
     },
@@ -316,80 +760,108 @@
         "source": "C:\\Users\\Edianzu\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.0.2.aar\\eba8960c92c8620a740f002ff800cf5b\\res\\drawable\\design_snackbar_background.xml"
     },
     {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\yunfe_000\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\32fc45f7d32b5840f69cbd287e908f59\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
         "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\tooltip_frame_light.xml",
         "source": "C:\\Users\\Edianzu\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\2c5770af6f4b77fcf81c50b7369244ba\\res\\drawable\\tooltip_frame_light.xml"
     },
     {
-        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_blue_sky_bg.xml",
-        "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\btn_blue_sky_bg.xml"
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\input_bg_pressed.xml",
+        "source": "G:\\AndroidQuick\\Core\\src\\main\\res\\drawable\\input_bg_pressed.xml"
     },
     {
-        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
-        "source": "C:\\Users\\Edianzu\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\2c5770af6f4b77fcf81c50b7369244ba\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_left_btn_bg.xml",
+        "source": "G:\\AndroidQuick\\Core\\src\\main\\res\\drawable\\dialog_left_btn_bg.xml"
     },
     {
-        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
-        "source": "C:\\Users\\Edianzu\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\2c5770af6f4b77fcf81c50b7369244ba\\res\\drawable\\abc_btn_radio_material.xml"
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_white_bg.xml",
+        "source": "G:\\AndroidQuick\\Core\\src\\main\\res\\drawable\\icon_white_bg.xml"
     },
     {
-        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_blue_round_bg_normal.xml",
-        "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\btn_blue_round_bg_normal.xml"
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\to_gray_slight.xml",
+        "source": "G:\\AndroidQuick\\Core\\src\\main\\res\\drawable\\to_gray_slight.xml"
     },
     {
-        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\list_item_bg.xml",
-        "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\list_item_bg.xml"
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_btn_bg.xml",
+        "source": "G:\\AndroidQuick\\Core\\src\\main\\res\\drawable\\dialog_btn_bg.xml"
     },
     {
-        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
-        "source": "C:\\Users\\Edianzu\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\2c5770af6f4b77fcf81c50b7369244ba\\res\\drawable\\abc_cab_background_internal_bg.xml"
-    },
-    {
-        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\oval_alpha.xml",
-        "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\oval_alpha.xml"
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\oval_alpha.xml",
+        "source": "G:\\AndroidQuick\\Core\\src\\main\\res\\drawable\\oval_alpha.xml"
     },
     {
         "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_item_text_bg.xml",
         "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\edit_item_text_bg.xml"
     },
     {
-        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
-        "source": "C:\\Users\\Edianzu\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\2c5770af6f4b77fcf81c50b7369244ba\\res\\drawable\\abc_tab_indicator_material.xml"
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_red_round_bg_normal.xml",
+        "source": "G:\\AndroidQuick\\Core\\src\\main\\res\\drawable\\btn_red_round_bg_normal.xml"
+    },
+    {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\yunfe_000\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\32fc45f7d32b5840f69cbd287e908f59\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_right_btn_bg.xml",
+        "source": "G:\\AndroidQuick\\Core\\src\\main\\res\\drawable\\dialog_right_btn_bg.xml"
+    },
+    {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\yunfe_000\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.2.aar\\7b8292a764eccca777f4f2e75392d8bc\\res\\drawable\\notification_icon_background.xml"
     },
     {
         "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\white_to_gray.xml",
         "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\white_to_gray.xml"
     },
     {
-        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
-        "source": "C:\\Users\\Edianzu\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.2.aar\\7a405ab6b6f1a55c8eb0d0f5b40c1f9c\\res\\drawable\\notification_tile_bg.xml"
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\square_alpha.xml",
+        "source": "G:\\AndroidQuick\\Core\\src\\main\\res\\drawable\\square_alpha.xml"
     },
     {
         "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
         "source": "C:\\Users\\Edianzu\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\2c5770af6f4b77fcf81c50b7369244ba\\res\\drawable\\abc_vector_test.xml"
     },
     {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\yunfe_000\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.2.aar\\7b8292a764eccca777f4f2e75392d8bc\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_cusor.xml",
+        "source": "G:\\AndroidQuick\\Core\\src\\main\\res\\drawable\\edit_cusor.xml"
+    },
+    {
         "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\null_drawable.xml",
         "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\null_drawable.xml"
     },
     {
-        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
-        "source": "C:\\Users\\Edianzu\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.2.aar\\7a405ab6b6f1a55c8eb0d0f5b40c1f9c\\res\\drawable\\notification_icon_background.xml"
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_blue_round_bg_pressed.xml",
+        "source": "G:\\AndroidQuick\\Core\\src\\main\\res\\drawable\\btn_blue_round_bg_pressed.xml"
     },
     {
         "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\green_to_darker.xml",
         "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\green_to_darker.xml"
     },
     {
-        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_cusor.xml",
-        "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\edit_cusor.xml"
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\cilcle_gray.xml",
+        "source": "G:\\AndroidQuick\\Core\\src\\main\\res\\drawable\\cilcle_gray.xml"
     },
     {
         "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_blue_normal_shape.xml",
         "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\btn_blue_normal_shape.xml"
     },
     {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\yunfe_000\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\32fc45f7d32b5840f69cbd287e908f59\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
         "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
         "source": "C:\\Users\\Edianzu\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\2c5770af6f4b77fcf81c50b7369244ba\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\bottom_menu_cancel_bg_pressed.xml",
+        "source": "G:\\AndroidQuick\\Core\\src\\main\\res\\drawable\\bottom_menu_cancel_bg_pressed.xml"
     },
     {
         "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_green.xml",
@@ -404,6 +876,10 @@
         "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\round_empty_white.xml"
     },
     {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_button_pressed_bg_left.xml",
+        "source": "G:\\AndroidQuick\\Core\\src\\main\\res\\drawable\\dialog_button_pressed_bg_left.xml"
+    },
+    {
         "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\input_bg.xml",
         "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\input_bg.xml"
     },
@@ -412,32 +888,24 @@
         "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\round_green.xml"
     },
     {
-        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\cilcle_gray.xml",
-        "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\cilcle_gray.xml"
-    },
-    {
-        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\tooltip_frame_dark.xml",
-        "source": "C:\\Users\\Edianzu\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\2c5770af6f4b77fcf81c50b7369244ba\\res\\drawable\\tooltip_frame_dark.xml"
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\yunfe_000\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\32fc45f7d32b5840f69cbd287e908f59\\res\\drawable\\abc_ratingbar_indicator_material.xml"
     },
     {
         "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_pink.xml",
         "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\circle_pink.xml"
     },
     {
-        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
-        "source": "C:\\Users\\Edianzu\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.2.aar\\7a405ab6b6f1a55c8eb0d0f5b40c1f9c\\res\\drawable\\notification_bg.xml"
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\yunfe_000\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\32fc45f7d32b5840f69cbd287e908f59\\res\\drawable\\abc_switch_thumb_material.xml"
     },
     {
-        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_gray_bg.xml",
-        "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\icon_gray_bg.xml"
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\yunfe_000\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\32fc45f7d32b5840f69cbd287e908f59\\res\\drawable\\abc_cab_background_internal_bg.xml"
     },
     {
-        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_left_btn_bg.xml",
-        "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\dialog_left_btn_bg.xml"
-    },
-    {
-        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_blue_bg.xml",
-        "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\btn_blue_bg.xml"
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_green_bg.xml",
+        "source": "G:\\AndroidQuick\\Core\\src\\main\\res\\drawable\\btn_green_bg.xml"
     },
     {
         "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
@@ -448,8 +916,20 @@
         "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\gray_to_alpha.xml"
     },
     {
-        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_bg_common.xml",
-        "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\dialog_bg_common.xml"
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_white.xml",
+        "source": "G:\\AndroidQuick\\Core\\src\\main\\res\\drawable\\circle_white.xml"
+    },
+    {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_text_bg.xml",
+        "source": "G:\\AndroidQuick\\Core\\src\\main\\res\\drawable\\edit_text_bg.xml"
+    },
+    {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\yunfe_000\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\32fc45f7d32b5840f69cbd287e908f59\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\yunfe_000\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\32fc45f7d32b5840f69cbd287e908f59\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
     },
     {
         "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\to_gray_slight.xml",
@@ -460,15 +940,7 @@
         "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\tab_bg_left_selector.xml"
     },
     {
-        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
-        "source": "C:\\Users\\Edianzu\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.0.2.aar\\eba8960c92c8620a740f002ff800cf5b\\res\\drawable\\design_fab_background.xml"
-    },
-    {
-        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\bottom_menu_cancel_bg.xml",
-        "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\bottom_menu_cancel_bg.xml"
-    },
-    {
-        "merged": "D:\\androidProject\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\bottom_menu_bg.xml",
-        "source": "D:\\androidProject\\AndroidQuick\\Core\\src\\main\\res\\drawable\\bottom_menu_bg.xml"
+        "merged": "G:\\AndroidQuick\\Core\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_blue_normal_shape.xml",
+        "source": "G:\\AndroidQuick\\Core\\src\\main\\res\\drawable\\btn_blue_normal_shape.xml"
     }
 ]
