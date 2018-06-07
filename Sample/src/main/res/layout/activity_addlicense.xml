@@ -1,83 +1,101 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
     android:layout_marginTop="10dp"
+    android:orientation="vertical"
     android:paddingLeft="20dp"
-    android:paddingRight="20dp"
-    android:layout_height="match_parent">
+    android:paddingRight="20dp">
 
     <LinearLayout
-        android:orientation="horizontal"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content">
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
         <Spinner
-            android:scrollbars="none"
-            android:entries="@array/spinner_province"
             android:id="@+id/sp_addlicense_province"
             android:layout_width="wrap_content"
-            android:layout_height="wrap_content"></Spinner>
+            android:layout_height="wrap_content"
+            android:entries="@array/spinner_province"
+            android:scrollbars="none"></Spinner>
+
         <Spinner
-            android:scrollbars="none"
-            android:entries="@array/spinner_city"
             android:id="@+id/sp_addlicense_city"
             android:layout_width="wrap_content"
-            android:layout_height="wrap_content"></Spinner>
+            android:layout_height="wrap_content"
+            android:entries="@array/spinner_city"
+            android:scrollbars="none"></Spinner>
+
         <EditText
-            android:maxLength="5"
-            android:maxLines="1"
             android:id="@+id/et_addlicence_carnum"
-            android:digits="0123456789qwertyuioplkjhgfdsazxcvbnmQWERTYUIOPLKJHGFDSAZXCVBNM"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" />
+            android:layout_height="wrap_content"
+            android:digits="0123456789qwertyuioplkjhgfdsazxcvbnmQWERTYUIOPLKJHGFDSAZXCVBNM"
+            android:maxLength="5"
+            android:maxLines="1" />
     </LinearLayout>
 
     <LinearLayout
-        android:layout_marginTop="5dp"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content">
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp">
+
         <TextView
-            android:text="手机号"
             android:layout_width="wrap_content"
-            android:layout_height="wrap_content" />
+            android:layout_height="wrap_content"
+            android:text="手机号" />
+
         <EditText
-            android:maxLength="11"
-            android:inputType="phone"
-            android:layout_marginLeft="20dp"
             android:id="@+id/et_addlicence_phonenum"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" />
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:inputType="phone"
+            android:maxLength="11" />
     </LinearLayout>
 
     <LinearLayout
+        android:layout_gravity="center"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content">
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
 
         <EditText
             android:id="@+id/et_addlicense_remark"
-            android:lines="3"
-            android:hint="输入备注"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" />
+            android:layout_height="wrap_content"
+            android:hint="输入备注"
+            android:lines="3" />
 
+        <TextView
+            android:padding="5dp"
+            android:layout_gravity="right"
+            android:id="@+id/tv_clearremark"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="清除备注" />
     </LinearLayout>
 
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content">
+
         <TextView
-            android:text="采集人"
             android:layout_width="wrap_content"
-            android:layout_height="wrap_content" />
+            android:layout_height="wrap_content"
+            android:text="采集人" />
+
         <EditText
-            android:layout_marginLeft="20dp"
             android:id="@+id/et_addlicense_author"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" />
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp" />
     </LinearLayout>
+
     <Button
-        android:layout_marginTop="30dp"
         android:id="@+id/bt_addlicense_submit"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
         android:text="确定提交" />
 </LinearLayout>

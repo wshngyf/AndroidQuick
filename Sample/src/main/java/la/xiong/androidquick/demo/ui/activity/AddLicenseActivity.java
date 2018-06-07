@@ -8,6 +8,7 @@ import android.view.View;
 import android.widget.AdapterView;
 import android.widget.EditText;
 import android.widget.Spinner;
+import android.widget.TextView;
 import android.widget.Toast;
 
 import butterknife.BindView;
@@ -42,6 +43,9 @@ public class AddLicenseActivity extends BaseActivity {
     Spinner mSpCity;
     @BindView(R.id.sp_addlicense_province)
     Spinner mSpProvince;
+    @BindView(R.id.tv_clearremark)
+    TextView mClearRemark;
+
 
     String mProvince;
     String mCity;
@@ -81,32 +85,15 @@ public class AddLicenseActivity extends BaseActivity {
                 mCity="A";
             }
         });
+        mClearRemark.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                mEtRemark.getText().clear();
 
+            }
+        });
         mEtCarnum.setTransformationMethod(new AllCapTransformationMethod(true));
-        subscriber = new Subscriber<SuccessEntity>(){
-            @Override
-            public void onCompleted() {
 
-            }
-
-            @Override
-            public void onError(Throwable e) {
-                DialogUtil.dismissLoadingDialog(mContext);
-                ToastUtil.showToast(e.getMessage());
-                mEtCarnum.getText().clear();
-                mEtPhoneNum.getText().clear();
-                mEtRemark.getText().clear();
-            }
-
-            @Override
-            public void onNext(SuccessEntity successEntity) {
-                mEtCarnum.getText().clear();
-                mEtPhoneNum.getText().clear();
-                mEtRemark.getText().clear();
-                DialogUtil.dismissLoadingDialog(mContext);
-                ToastUtil.showToast(successEntity.getLicenseplate()+"-添加成功");
-            }
-        };
     }
 
     @OnClick({R.id.bt_addlicense_submit,R.id.et_addlicense_author,R.id.et_addlicense_remark,R.id.et_addlicence_phonenum})
@@ -140,7 +127,28 @@ public class AddLicenseActivity extends BaseActivity {
                     ToastUtil.showToast("手机号不够11位");
                     return;
                 }
-                mAppLoader.submitLicense(subscriber,mProvince,mCity,carnum,phonenum,remark,author);
+                mAppLoader.submitLicense(new Subscriber<SuccessEntity>(){
+                    @Override
+                    public void onCompleted() {
+                        this.unsubscribe();
+                    }
+
+                    @Override
+                    public void onError(Throwable e) {
+                        DialogUtil.dismissLoadingDialog(mContext);
+                        ToastUtil.showToast(e.getMessage());
+                        mEtCarnum.getText().clear();
+                        mEtPhoneNum.getText().clear();
+                    }
+
+                    @Override
+                    public void onNext(SuccessEntity successEntity) {
+                        mEtCarnum.getText().clear();
+                        mEtPhoneNum.getText().clear();
+                        DialogUtil.dismissLoadingDialog(mContext);
+                        ToastUtil.showToast(successEntity.getLicenseplate()+"-添加成功");
+                    }
+                },mProvince,mCity,carnum,phonenum,remark,author);
 
                 break;
         }
